@@ -1,0 +1,1454 @@
+{
+	"react": {
+		"MessageLoop::RunTask": [
+			9991.774000376463
+		],
+		"MessageLoop::RunTask_avg": [
+			0.6673640128490825
+		],
+		"MessageLoop::RunTask_max": [
+			156.14599999785423
+		],
+		"MessageLoop::RunTask_count": [
+			14972
+		],
+		"TaskQueueManager::ProcessTaskFromWorkQueue": [
+			8431.321000158787
+		],
+		"TaskQueueManager::ProcessTaskFromWorkQueue_avg": [
+			4.697114763319658
+		],
+		"TaskQueueManager::ProcessTaskFromWorkQueue_max": [
+			109.68699999153614
+		],
+		"TaskQueueManager::ProcessTaskFromWorkQueue_count": [
+			1795
+		],
+		"MessagePumpLibevent::OnLibeventNotification": [
+			176.81399933993816
+		],
+		"MessagePumpLibevent::OnLibeventNotification_avg": [
+			0.037516231559503115
+		],
+		"MessagePumpLibevent::OnLibeventNotification_max": [
+			1.2989999949932098
+		],
+		"MessagePumpLibevent::OnLibeventNotification_count": [
+			4713
+		],
+		"ChannelReader::DispatchInputData": [
+			12.140999987721443
+		],
+		"ChannelReader::DispatchInputData_avg": [
+			0.002269770048181238
+		],
+		"ChannelReader::DispatchInputData_max": [
+			0.49800001084804535
+		],
+		"ChannelReader::DispatchInputData_count": [
+			5349
+		],
+		"GPUTask": [
+			859.7879999130964
+		],
+		"GPUTask_avg": [
+			0.6675372670132736
+		],
+		"GPUTask_max": [
+			10.732999995350838
+		],
+		"GPUTask_count": [
+			1288
+		],
+		"BeginFrame": [
+			531
+		],
+		"ActivateLayerTree": [
+			169
+		],
+		"DrawFrame": [
+			397
+		],
+		"NeedsBeginFrameChanged": [
+			14
+		],
+		"InvalidateLayout": [
+			92
+		],
+		"Layout": [
+			524.7680000066757
+		],
+		"Layout_avg": [
+			9.54123636375774
+		],
+		"Layout_max": [
+			12.89699999988079
+		],
+		"Layout_count": [
+			55
+		],
+		"UpdateLayerTree": [
+			464.6829999536276
+		],
+		"UpdateLayerTree_avg": [
+			1.5336072605730284
+		],
+		"UpdateLayerTree_max": [
+			13.767000004649162
+		],
+		"UpdateLayerTree_count": [
+			303
+		],
+		"HitTest": [
+			25.491999953985214
+		],
+		"HitTest_avg": [
+			0.4320677958302579
+		],
+		"HitTest_max": [
+			1.1669999957084656
+		],
+		"HitTest_count": [
+			59
+		],
+		"BeginMainThreadFrame": [
+			249
+		],
+		"Paint": [
+			274.72100000083447
+		],
+		"Paint_avg": [
+			5.283096153862202
+		],
+		"Paint_max": [
+			8.100999996066093
+		],
+		"Paint_count": [
+			52
+		],
+		"UpdateLayer": [
+			75.66800001263618
+		],
+		"UpdateLayer_avg": [
+			0.4613902439794889
+		],
+		"UpdateLayer_max": [
+			3.0729999989271164
+		],
+		"UpdateLayer_count": [
+			164
+		],
+		"CompositeLayers": [
+			24.134000033140182
+		],
+		"CompositeLayers_avg": [
+			0.09692369491220956
+		],
+		"CompositeLayers_max": [
+			0.8149999976158142
+		],
+		"CompositeLayers_count": [
+			249
+		],
+		"TimerFire": [
+			6393.995999962091
+		],
+		"TimerFire_avg": [
+			31.343117646872997
+		],
+		"TimerFire_max": [
+			109.65399999916553
+		],
+		"TimerFire_count": [
+			204
+		],
+		"FunctionCall": [
+			6858.513000041246
+		],
+		"FunctionCall_avg": [
+			10.535350230478105
+		],
+		"FunctionCall_max": [
+			109.61300000548363
+		],
+		"FunctionCall_count": [
+			651
+		],
+		"MinorGC": [
+			400.8020000010729
+		],
+		"MinorGC_avg": [
+			8.17963265308312
+		],
+		"MinorGC_max": [
+			16.44699999690056
+		],
+		"MinorGC_count": [
+			49
+		],
+		"UpdateCounters": [
+			786
+		],
+		"TimerInstall": [
+			203
+		],
+		"TaskGraphRunner::RunTask": [
+			494.2509999871254
+		],
+		"TaskGraphRunner::RunTask_avg": [
+			0.14609843333938086
+		],
+		"TaskGraphRunner::RunTask_max": [
+			6.747999995946884
+		],
+		"TaskGraphRunner::RunTask_count": [
+			3383
+		],
+		"WorkerThread::ThreadMain::Run": [
+			152.24899992346764
+		],
+		"WorkerThread::ThreadMain::Run_avg": [
+			0.928347560508949
+		],
+		"WorkerThread::ThreadMain::Run_max": [
+			5.885999992489815
+		],
+		"WorkerThread::ThreadMain::Run_count": [
+			164
+		],
+		"RasterTask": [
+			418.1860000193119
+		],
+		"RasterTask_avg": [
+			0.31254559044791624
+		],
+		"RasterTask_max": [
+			6.738000005483627
+		],
+		"RasterTask_count": [
+			1338
+		],
+		"MajorGC": [
+			77.41899996995926
+		],
+		"MajorGC_avg": [
+			1.2096718745306134
+		],
+		"MajorGC_max": [
+			19.158999994397163
+		],
+		"MajorGC_count": [
+			64
+		],
+		"RequestMainThreadFrame": [
+			244
+		],
+		"ScheduleStyleRecalculation": [
+			54
+		],
+		"UpdateLayoutTree": [
+			223.06700006127357
+		],
+		"UpdateLayoutTree_avg": [
+			4.1308703715050665
+		],
+		"UpdateLayoutTree_max": [
+			6.86599999666214
+		],
+		"UpdateLayoutTree_count": [
+			54
+		],
+		"v8.compile": [
+			4.716999977827072
+		],
+		"v8.compile_avg": [
+			0.09249019564366807
+		],
+		"v8.compile_max": [
+			0.9060000032186508
+		],
+		"v8.compile_count": [
+			51
+		],
+		"RequestAnimationFrame": [
+			244
+		],
+		"FireAnimationFrame": [
+			12.845999866724014
+		],
+		"FireAnimationFrame_avg": [
+			0.05286419698240335
+		],
+		"FireAnimationFrame_max": [
+			0.7629999965429306
+		],
+		"FireAnimationFrame_count": [
+			243
+		],
+		"EventDispatch": [
+			457.13599990308285
+		],
+		"EventDispatch_avg": [
+			2.6272183902476027
+		],
+		"EventDispatch_max": [
+			18.260000005364418
+		],
+		"EventDispatch_count": [
+			174
+		],
+		"SingleThreadTaskGraphRunner::RunTaskWithLockAcquired": [
+			0.20200000703334808
+		],
+		"SingleThreadTaskGraphRunner::RunTaskWithLockAcquired_avg": [
+			0.0050500001758337024
+		],
+		"SingleThreadTaskGraphRunner::RunTaskWithLockAcquired_max": [
+			0.018000006675720215
+		],
+		"SingleThreadTaskGraphRunner::RunTaskWithLockAcquired_count": [
+			40
+		],
+		"Layers": [
+			1
+		],
+		"PaintedArea_total": [
+			1038993208
+		],
+		"PaintedArea_avg": [
+			19980638.615384616
+		],
+		"NodePerLayout_avg": [
+			4009.836363636364
+		],
+		"ExpensivePaints": [
+			0
+		],
+		"ExpensiveEventHandlers": [
+			20
+		],
+		"framesPerSec (devtools)": [
+			3117.2706217537175
+		],
+		"Styles": [
+			223.06700006127357
+		],
+		"Javascript": [
+			7336.734000012279
+		],
+		"mean_frame_time": [
+			22.180570332481125
+		],
+		"percentage_smooth": [
+			90.02557544757033
+		],
+		"frames_per_sec": [
+			45.08450346453015
+		],
+		"frame_time_discrepancy": [
+			2108.7505856826324
+		],
+		"numAnimationFrames": [
+			372
+		],
+		"numFramesSentToScreen": [
+			372
+		],
+		"droppedFrameCount": [
+			352
+		],
+		"meanFrameTime_raf": [
+			32.34804021450503
+		],
+		"framesPerSec_raf": [
+			30.913773859833235
+		],
+		"connectEnd": [
+			1458728559401
+		],
+		"connectStart": [
+			1458728559401
+		],
+		"domComplete": [
+			1458728560174
+		],
+		"domContentLoadedEventEnd": [
+			1458728560174
+		],
+		"domContentLoadedEventStart": [
+			1458728560171
+		],
+		"domInteractive": [
+			1458728560171
+		],
+		"domLoading": [
+			1458728559407
+		],
+		"domainLookupEnd": [
+			1458728559401
+		],
+		"domainLookupStart": [
+			1458728559401
+		],
+		"fetchStart": [
+			1458728559401
+		],
+		"firstPaint": [
+			605.03101348877
+		],
+		"loadEventEnd": [
+			1458728560174
+		],
+		"loadEventStart": [
+			1458728560174
+		],
+		"navigationStart": [
+			1458728559382
+		],
+		"redirectEnd": [
+			0
+		],
+		"redirectStart": [
+			0
+		],
+		"requestStart": [
+			1458728559404
+		],
+		"responseEnd": [
+			1458728559406
+		],
+		"responseStart": [
+			1458728559405
+		],
+		"secureConnectionStart": [
+			0
+		],
+		"unloadEventEnd": [
+			0
+		],
+		"unloadEventStart": [
+			0
+		],
+		"loadTime": [
+			773
+		],
+		"domReadyTime": [
+			3
+		],
+		"readyStart": [
+			19
+		],
+		"redirectTime": [
+			0
+		],
+		"appcacheTime": [
+			0
+		],
+		"unloadEventTime": [
+			0
+		],
+		"domainLookupTime": [
+			0
+		],
+		"connectTime": [
+			0
+		],
+		"requestTime": [
+			2
+		],
+		"initDomTreeTime": [
+			765
+		],
+		"loadEventTime": [
+			0
+		],
+		"totalJSHeapSize_max": [
+			60300000
+		],
+		"totalJSHeapSize_min": [
+			60300000
+		],
+		"totalJSHeapSize_avg": [
+			60300000
+		],
+		"usedJSHeapSize_max": [
+			37300000
+		],
+		"usedJSHeapSize_min": [
+			37300000
+		],
+		"usedJSHeapSize_avg": [
+			37300000
+		],
+		"_browserName": [
+			"chrome"
+		],
+		"_url": [
+			"http://localhost:8000"
+		]
+	},
+	"react_immutable": {
+		"MessageLoop::RunTask": [
+			10081.253001153469
+		],
+		"MessageLoop::RunTask_avg": [
+			0.6704298065540646
+		],
+		"MessageLoop::RunTask_max": [
+			143.3820000141859
+		],
+		"MessageLoop::RunTask_count": [
+			15037
+		],
+		"TaskQueueManager::ProcessTaskFromWorkQueue": [
+			8392.065999478102
+		],
+		"TaskQueueManager::ProcessTaskFromWorkQueue_avg": [
+			4.719947131315018
+		],
+		"TaskQueueManager::ProcessTaskFromWorkQueue_max": [
+			107.05200000107288
+		],
+		"TaskQueueManager::ProcessTaskFromWorkQueue_count": [
+			1778
+		],
+		"MessagePumpLibevent::OnLibeventNotification": [
+			180.60200053453445
+		],
+		"MessagePumpLibevent::OnLibeventNotification_avg": [
+			0.038263135706469165
+		],
+		"MessagePumpLibevent::OnLibeventNotification_max": [
+			2.57600000500679
+		],
+		"MessagePumpLibevent::OnLibeventNotification_count": [
+			4720
+		],
+		"ChannelReader::DispatchInputData": [
+			10.907000213861465
+		],
+		"ChannelReader::DispatchInputData_avg": [
+			0.0020280773919415145
+		],
+		"ChannelReader::DispatchInputData_max": [
+			0.09200000762939453
+		],
+		"ChannelReader::DispatchInputData_count": [
+			5378
+		],
+		"GPUTask": [
+			923.914000198245
+		],
+		"GPUTask_avg": [
+			0.7128966050912384
+		],
+		"GPUTask_max": [
+			6.3209999948740005
+		],
+		"GPUTask_count": [
+			1296
+		],
+		"WorkerThread::ThreadMain::Run": [
+			106.8959998935461
+		],
+		"WorkerThread::ThreadMain::Run_avg": [
+			0.8286511619654737
+		],
+		"WorkerThread::ThreadMain::Run_max": [
+			5.633000001311302
+		],
+		"WorkerThread::ThreadMain::Run_count": [
+			129
+		],
+		"TaskGraphRunner::RunTask": [
+			522.2189997732639
+		],
+		"TaskGraphRunner::RunTask_avg": [
+			0.14907764766579046
+		],
+		"TaskGraphRunner::RunTask_max": [
+			12.188999995589256
+		],
+		"TaskGraphRunner::RunTask_count": [
+			3503
+		],
+		"RasterTask": [
+			439.72800005972385
+		],
+		"RasterTask_avg": [
+			0.31409142861408845
+		],
+		"RasterTask_max": [
+			12.177000001072884
+		],
+		"RasterTask_count": [
+			1400
+		],
+		"TimerInstall": [
+			207
+		],
+		"UpdateCounters": [
+			757
+		],
+		"MajorGC": [
+			9.560000032186508
+		],
+		"MajorGC_avg": [
+			0.23317073249235387
+		],
+		"MajorGC_max": [
+			7.605000004172325
+		],
+		"MajorGC_count": [
+			41
+		],
+		"TimerFire": [
+			6356.886000007391
+		],
+		"TimerFire_avg": [
+			30.709594202934255
+		],
+		"TimerFire_max": [
+			107.0240000039339
+		],
+		"TimerFire_count": [
+			207
+		],
+		"FunctionCall": [
+			6867.477000132203
+		],
+		"FunctionCall_avg": [
+			10.42105766332656
+		],
+		"FunctionCall_max": [
+			106.98299999535084
+		],
+		"FunctionCall_count": [
+			659
+		],
+		"MinorGC": [
+			160.92600002884865
+		],
+		"MinorGC_avg": [
+			4.349351352131045
+		],
+		"MinorGC_max": [
+			7.108999997377396
+		],
+		"MinorGC_count": [
+			37
+		],
+		"InvalidateLayout": [
+			89
+		],
+		"ScheduleStyleRecalculation": [
+			59
+		],
+		"BeginMainThreadFrame": [
+			240
+		],
+		"UpdateLayoutTree": [
+			255.67800004780293
+		],
+		"UpdateLayoutTree_avg": [
+			4.333525424539032
+		],
+		"UpdateLayoutTree_max": [
+			6.902999997138977
+		],
+		"UpdateLayoutTree_count": [
+			59
+		],
+		"Layout": [
+			568.5890000015497
+		],
+		"Layout_avg": [
+			9.63710169494152
+		],
+		"Layout_max": [
+			13.00900000333786
+		],
+		"Layout_count": [
+			59
+		],
+		"UpdateLayerTree": [
+			510.06999982893467
+		],
+		"UpdateLayerTree_avg": [
+			1.7116442947279686
+		],
+		"UpdateLayerTree_max": [
+			11.834000006318092
+		],
+		"UpdateLayerTree_count": [
+			298
+		],
+		"Paint": [
+			296.9620000869036
+		],
+		"Paint_avg": [
+			5.209859650647431
+		],
+		"Paint_max": [
+			8.627999991178513
+		],
+		"Paint_count": [
+			57
+		],
+		"UpdateLayer": [
+			84.73999997973442
+		],
+		"UpdateLayer_avg": [
+			0.4787570620323979
+		],
+		"UpdateLayer_max": [
+			3.4579999893903732
+		],
+		"UpdateLayer_count": [
+			177
+		],
+		"CompositeLayers": [
+			22.37500011920929
+		],
+		"CompositeLayers_avg": [
+			0.09322916716337204
+		],
+		"CompositeLayers_max": [
+			0.4020000100135803
+		],
+		"CompositeLayers_count": [
+			240
+		],
+		"NeedsBeginFrameChanged": [
+			1
+		],
+		"BeginFrame": [
+			517
+		],
+		"RequestMainThreadFrame": [
+			241
+		],
+		"ActivateLayerTree": [
+			177
+		],
+		"DrawFrame": [
+			397
+		],
+		"v8.compile": [
+			4.474999934434891
+		],
+		"v8.compile_avg": [
+			0.08774509675362531
+		],
+		"v8.compile_max": [
+			0.596000000834465
+		],
+		"v8.compile_count": [
+			51
+		],
+		"RequestAnimationFrame": [
+			241
+		],
+		"FireAnimationFrame": [
+			27.136000022292137
+		],
+		"FireAnimationFrame_avg": [
+			0.11306666675955057
+		],
+		"FireAnimationFrame_max": [
+			16.14299999177456
+		],
+		"FireAnimationFrame_count": [
+			240
+		],
+		"HitTest": [
+			24.914000019431114
+		],
+		"HitTest_avg": [
+			0.42955172447295026
+		],
+		"HitTest_max": [
+			1.2479999959468842
+		],
+		"HitTest_count": [
+			58
+		],
+		"EventDispatch": [
+			488.313000023365
+		],
+		"EventDispatch_avg": [
+			2.7280055867227095
+		],
+		"EventDispatch_max": [
+			17.790999993681908
+		],
+		"EventDispatch_count": [
+			179
+		],
+		"Layers": [
+			1
+		],
+		"PaintedArea_total": [
+			1274360721
+		],
+		"PaintedArea_avg": [
+			22357205.63157895
+		],
+		"NodePerLayout_avg": [
+			4013.8474576271187
+		],
+		"ExpensivePaints": [
+			0
+		],
+		"ExpensiveEventHandlers": [
+			23
+		],
+		"framesPerSec (devtools)": [
+			47.0799017086057
+		],
+		"Styles": [
+			255.67800004780293
+		],
+		"Javascript": [
+			7037.963000193238
+		],
+		"mean_frame_time": [
+			21.294118686870792
+		],
+		"percentage_smooth": [
+			86.36363636363636
+		],
+		"frames_per_sec": [
+			46.96132367368484
+		],
+		"frame_time_discrepancy": [
+			1765.1568636413333
+		],
+		"numAnimationFrames": [
+			375
+		],
+		"numFramesSentToScreen": [
+			375
+		],
+		"droppedFrameCount": [
+			356
+		],
+		"meanFrameTime_raf": [
+			32.40028989363218
+		],
+		"framesPerSec_raf": [
+			30.863921381040974
+		],
+		"connectEnd": [
+			1458728574835
+		],
+		"connectStart": [
+			1458728574835
+		],
+		"domComplete": [
+			1458728575547
+		],
+		"domContentLoadedEventEnd": [
+			1458728575545
+		],
+		"domContentLoadedEventStart": [
+			1458728575542
+		],
+		"domInteractive": [
+			1458728575542
+		],
+		"domLoading": [
+			1458728574841
+		],
+		"domainLookupEnd": [
+			1458728574835
+		],
+		"domainLookupStart": [
+			1458728574835
+		],
+		"fetchStart": [
+			1458728574835
+		],
+		"firstPaint": [
+			823.485851287842
+		],
+		"loadEventEnd": [
+			1458728575547
+		],
+		"loadEventStart": [
+			1458728575547
+		],
+		"navigationStart": [
+			1458728574817
+		],
+		"redirectEnd": [
+			0
+		],
+		"redirectStart": [
+			0
+		],
+		"requestStart": [
+			1458728574837
+		],
+		"responseEnd": [
+			1458728574839
+		],
+		"responseStart": [
+			1458728574838
+		],
+		"secureConnectionStart": [
+			0
+		],
+		"unloadEventEnd": [
+			0
+		],
+		"unloadEventStart": [
+			0
+		],
+		"loadTime": [
+			712
+		],
+		"domReadyTime": [
+			5
+		],
+		"readyStart": [
+			18
+		],
+		"redirectTime": [
+			0
+		],
+		"appcacheTime": [
+			0
+		],
+		"unloadEventTime": [
+			0
+		],
+		"domainLookupTime": [
+			0
+		],
+		"connectTime": [
+			0
+		],
+		"requestTime": [
+			2
+		],
+		"initDomTreeTime": [
+			703
+		],
+		"loadEventTime": [
+			0
+		],
+		"totalJSHeapSize_max": [
+			50400000
+		],
+		"totalJSHeapSize_min": [
+			50400000
+		],
+		"totalJSHeapSize_avg": [
+			50400000
+		],
+		"usedJSHeapSize_max": [
+			21700000
+		],
+		"usedJSHeapSize_min": [
+			21700000
+		],
+		"usedJSHeapSize_avg": [
+			21700000
+		],
+		"_browserName": [
+			"chrome"
+		],
+		"_url": [
+			"http://localhost:8000"
+		]
+	},
+	"react_immutable_mixin": {
+		"MessageLoop::RunTask": [
+			10116.868000864983
+		],
+		"MessageLoop::RunTask_avg": [
+			0.6681770028970995
+		],
+		"MessageLoop::RunTask_max": [
+			149.91799999773502
+		],
+		"MessageLoop::RunTask_count": [
+			15141
+		],
+		"TaskQueueManager::ProcessTaskFromWorkQueue": [
+			8347.193999364972
+		],
+		"TaskQueueManager::ProcessTaskFromWorkQueue_avg": [
+			4.867168512749255
+		],
+		"TaskQueueManager::ProcessTaskFromWorkQueue_max": [
+			60.84700000286102
+		],
+		"TaskQueueManager::ProcessTaskFromWorkQueue_count": [
+			1715
+		],
+		"MessagePumpLibevent::OnLibeventNotification": [
+			198.43200014531612
+		],
+		"MessagePumpLibevent::OnLibeventNotification_avg": [
+			0.0419163498405822
+		],
+		"MessagePumpLibevent::OnLibeventNotification_max": [
+			1.6469999998807907
+		],
+		"MessagePumpLibevent::OnLibeventNotification_count": [
+			4734
+		],
+		"ChannelReader::DispatchInputData": [
+			11.736000090837479
+		],
+		"ChannelReader::DispatchInputData_avg": [
+			0.0021806020235669785
+		],
+		"ChannelReader::DispatchInputData_max": [
+			0.22499999403953552
+		],
+		"ChannelReader::DispatchInputData_count": [
+			5382
+		],
+		"GPUTask": [
+			952.696000084281
+		],
+		"GPUTask_avg": [
+			0.7322797848457194
+		],
+		"GPUTask_max": [
+			6.2249999940395355
+		],
+		"GPUTask_count": [
+			1301
+		],
+		"WorkerThread::ThreadMain::Run": [
+			114.99099998176098
+		],
+		"WorkerThread::ThreadMain::Run_avg": [
+			0.9999217389718346
+		],
+		"WorkerThread::ThreadMain::Run_max": [
+			6.652999997138977
+		],
+		"WorkerThread::ThreadMain::Run_count": [
+			115
+		],
+		"TaskGraphRunner::RunTask": [
+			528.1350003927946
+		],
+		"TaskGraphRunner::RunTask_avg": [
+			0.14872852728605876
+		],
+		"TaskGraphRunner::RunTask_max": [
+			6.328999996185303
+		],
+		"TaskGraphRunner::RunTask_count": [
+			3551
+		],
+		"RasterTask": [
+			442.67499969899654
+		],
+		"RasterTask_avg": [
+			0.3057147787976495
+		],
+		"RasterTask_max": [
+			6.312000006437302
+		],
+		"RasterTask_count": [
+			1448
+		],
+		"BeginFrame": [
+			528
+		],
+		"MinorGC": [
+			166.81100004911423
+		],
+		"MinorGC_avg": [
+			4.508405406732817
+		],
+		"MinorGC_max": [
+			7.387999996542931
+		],
+		"MinorGC_count": [
+			37
+		],
+		"UpdateCounters": [
+			731
+		],
+		"MajorGC": [
+			12.74700003862381
+		],
+		"MajorGC_avg": [
+			0.30350000091961454
+		],
+		"MajorGC_max": [
+			8.722000002861023
+		],
+		"MajorGC_count": [
+			42
+		],
+		"TimerInstall": [
+			201
+		],
+		"BeginMainThreadFrame": [
+			228
+		],
+		"UpdateLayoutTree": [
+			282.95899999141693
+		],
+		"UpdateLayoutTree_avg": [
+			4.287257575627529
+		],
+		"UpdateLayoutTree_max": [
+			7.078000009059906
+		],
+		"UpdateLayoutTree_count": [
+			66
+		],
+		"Layout": [
+			619.2269999831915
+		],
+		"Layout_avg": [
+			9.382227272472598
+		],
+		"Layout_max": [
+			12.846999987959862
+		],
+		"Layout_count": [
+			66
+		],
+		"UpdateLayerTree": [
+			519.7800000160933
+		],
+		"UpdateLayerTree_avg": [
+			1.7861855670656126
+		],
+		"UpdateLayerTree_max": [
+			11.91099999845028
+		],
+		"UpdateLayerTree_count": [
+			291
+		],
+		"Paint": [
+			319.84799997508526
+		],
+		"Paint_avg": [
+			5.330799999584754
+		],
+		"Paint_max": [
+			8.091000005602837
+		],
+		"Paint_count": [
+			60
+		],
+		"UpdateLayer": [
+			93.06900009512901
+		],
+		"UpdateLayer_avg": [
+			0.5674939030190793
+		],
+		"UpdateLayer_max": [
+			2.7390000075101852
+		],
+		"UpdateLayer_count": [
+			164
+		],
+		"CompositeLayers": [
+			25.514999821782112
+		],
+		"CompositeLayers_avg": [
+			0.1119078939551847
+		],
+		"CompositeLayers_max": [
+			1.9200000017881393
+		],
+		"CompositeLayers_count": [
+			228
+		],
+		"TimerFire": [
+			6202.239999994636
+		],
+		"TimerFire_avg": [
+			30.856915422858883
+		],
+		"TimerFire_max": [
+			60.82199999690056
+		],
+		"TimerFire_count": [
+			201
+		],
+		"FunctionCall": [
+			6670.841000214219
+		],
+		"FunctionCall_avg": [
+			10.707609952189758
+		],
+		"FunctionCall_max": [
+			60.76500000059605
+		],
+		"FunctionCall_count": [
+			623
+		],
+		"ActivateLayerTree": [
+			167
+		],
+		"DrawFrame": [
+			401
+		],
+		"NeedsBeginFrameChanged": [
+			9
+		],
+		"RequestMainThreadFrame": [
+			224
+		],
+		"HitTest": [
+			26.387000024318695
+		],
+		"HitTest_avg": [
+			0.39980303067149536
+		],
+		"HitTest_max": [
+			1.040000006556511
+		],
+		"HitTest_count": [
+			66
+		],
+		"InvalidateLayout": [
+			103
+		],
+		"ScheduleStyleRecalculation": [
+			65
+		],
+		"v8.compile": [
+			4.524999991059303
+		],
+		"v8.compile_avg": [
+			0.08872549002077065
+		],
+		"v8.compile_max": [
+			0.6849999874830246
+		],
+		"v8.compile_count": [
+			51
+		],
+		"RequestAnimationFrame": [
+			225
+		],
+		"FireAnimationFrame": [
+			11.565000057220459
+		],
+		"FireAnimationFrame_avg": [
+			0.05162946454116276
+		],
+		"FireAnimationFrame_max": [
+			0.6950000077486038
+		],
+		"FireAnimationFrame_count": [
+			224
+		],
+		"EventDispatch": [
+			458.22700014710426
+		],
+		"EventDispatch_avg": [
+			2.633488506592553
+		],
+		"EventDispatch_max": [
+			17.743999987840652
+		],
+		"EventDispatch_count": [
+			174
+		],
+		"SingleThreadTaskGraphRunner::RunTaskWithLockAcquired": [
+			0.24000000953674316
+		],
+		"SingleThreadTaskGraphRunner::RunTaskWithLockAcquired_avg": [
+			0.008571428912026542
+		],
+		"SingleThreadTaskGraphRunner::RunTaskWithLockAcquired_max": [
+			0.041999995708465576
+		],
+		"SingleThreadTaskGraphRunner::RunTaskWithLockAcquired_count": [
+			28
+		],
+		"Layers": [
+			1
+		],
+		"PaintedArea_total": [
+			1317793490
+		],
+		"PaintedArea_avg": [
+			21963224.833333332
+		],
+		"NodePerLayout_avg": [
+			4012.590909090909
+		],
+		"ExpensivePaints": [
+			0
+		],
+		"ExpensiveEventHandlers": [
+			23
+		],
+		"framesPerSec (devtools)": [
+			-6094.3175419033805
+		],
+		"Styles": [
+			282.95899999141693
+		],
+		"Javascript": [
+			6850.399000301957
+		],
+		"mean_frame_time": [
+			21.743949622178558
+		],
+		"percentage_smooth": [
+			88.41309823677582
+		],
+		"frames_per_sec": [
+			45.98980485955562
+		],
+		"frame_time_discrepancy": [
+			1946.9140075541648
+		],
+		"numAnimationFrames": [
+			348
+		],
+		"numFramesSentToScreen": [
+			348
+		],
+		"droppedFrameCount": [
+			369
+		],
+		"meanFrameTime_raf": [
+			34.286068767918884
+		],
+		"framesPerSec_raf": [
+			29.166365113742334
+		],
+		"connectEnd": [
+			1458728590674
+		],
+		"connectStart": [
+			1458728590674
+		],
+		"domComplete": [
+			1458728591401
+		],
+		"domContentLoadedEventEnd": [
+			1458728591399
+		],
+		"domContentLoadedEventStart": [
+			1458728591397
+		],
+		"domInteractive": [
+			1458728591397
+		],
+		"domLoading": [
+			1458728590682
+		],
+		"domainLookupEnd": [
+			1458728590674
+		],
+		"domainLookupStart": [
+			1458728590674
+		],
+		"fetchStart": [
+			1458728590674
+		],
+		"firstPaint": [
+			839.935064315796
+		],
+		"loadEventEnd": [
+			1458728591402
+		],
+		"loadEventStart": [
+			1458728591402
+		],
+		"navigationStart": [
+			1458728590655
+		],
+		"redirectEnd": [
+			0
+		],
+		"redirectStart": [
+			0
+		],
+		"requestStart": [
+			1458728590677
+		],
+		"responseEnd": [
+			1458728590680
+		],
+		"responseStart": [
+			1458728590679
+		],
+		"secureConnectionStart": [
+			0
+		],
+		"unloadEventEnd": [
+			0
+		],
+		"unloadEventStart": [
+			0
+		],
+		"loadTime": [
+			728
+		],
+		"domReadyTime": [
+			4
+		],
+		"readyStart": [
+			19
+		],
+		"redirectTime": [
+			0
+		],
+		"appcacheTime": [
+			0
+		],
+		"unloadEventTime": [
+			0
+		],
+		"domainLookupTime": [
+			0
+		],
+		"connectTime": [
+			0
+		],
+		"requestTime": [
+			3
+		],
+		"initDomTreeTime": [
+			717
+		],
+		"loadEventTime": [
+			0
+		],
+		"totalJSHeapSize_max": [
+			50400000
+		],
+		"totalJSHeapSize_min": [
+			50400000
+		],
+		"totalJSHeapSize_avg": [
+			50400000
+		],
+		"usedJSHeapSize_max": [
+			20500000
+		],
+		"usedJSHeapSize_min": [
+			20500000
+		],
+		"usedJSHeapSize_avg": [
+			20500000
+		],
+		"_browserName": [
+			"chrome"
+		],
+		"_url": [
+			"http://localhost:8000"
+		]
+	}
+}
